@@ -1,4 +1,4 @@
-## Hello World!. I'm Rahul Chaudhary👋
+## Hello World!. I'm Rahul Chaudhary, a Full-Stack Devloper👋
 
 <!--
 **RahulChaudhary2/RahulChaudhary2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
